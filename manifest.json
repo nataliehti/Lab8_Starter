@@ -1,11 +1,11 @@
 {
-    "name": "",
+    "name": "nataliehti/Lab8_Starter",
     "short_name": "Natalie Ti",
-    "description": "",
+    "description": "cse 110 lab 8",
     "start_url": "",
     "display": "fullscreen",
-    "background_color": "",
-    "theme_color": "",
+    "background_color": "white",
+    "theme_color": "blue",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
